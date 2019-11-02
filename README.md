@@ -6,6 +6,18 @@ Practice textkit-app with Pythonista
 [Pythonista](http://omz-software.com/pythonista/) の`objc_util` を使い、Objective-C の理解と、 `TextKit` の理解ができるようにする。
 
 
+## Basic Data
+- iPhone
+	- iPhone 11
+	- iOS 13.2
+
+- Pythonista
+	- ver_3.2
+
+
+
+
+
 ## Gole🏁
 ### Text(Coding) Editor をつくる
   - Syntax Highlight
