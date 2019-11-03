@@ -15,9 +15,6 @@ Practice textkit-app with Pythonista
 	- ver_3.2
 
 
-
-
-
 ## Gole🏁
 ### Text(Coding) Editor をつくる
   - Syntax Highlight
@@ -29,6 +26,21 @@ Practice textkit-app with Pythonista
 --- 以下日記 ---
 
 > 2019/11/03
+
+# 進捗
+
+時系列がバラバラだけども、状況を列記
+
+- `ObjCClass('UITextView')`
+	- main のview サイズで描画ができた
+		- 創造神のomz氏のgist より参照 ->[CodeEditor Demo.py](https://gist.github.com/omz/6762c1e55e8c3a596637)
+			- `flex_width, flex_height = (1<<1), (1<<4)`
+			- `editor_view.setAutoresizingMask_(flex_width|flex_height)`
+	- 仮テキスト流す
+		- 青空文庫 [川端康成へ](https://www.aozora.gr.jp/cards/000035/files/1607_13766.html) （深い意味はない）
+		- 編集時に、keyboard にテキストが隠れる
+
+
 
 # Pythonista クラスか、既存クラスか
 - Syntax Highlight のことを考えると
@@ -63,6 +75,11 @@ Practice textkit-app with Pythonista
 - 多分GitHub の使い方ちゃんと理解してない🤗
 - Markdown の書き方が酷い😂
 	- 多分使い方あってない（言語としての活用フォームじゃない）
+
+- （この）テキスト編集を[iVim](https://github.com/terrychou/iVim) （[App Store](https://apps.apple.com/jp/app/ivim/id1266544660)）でしたひ。。。
+	- iOS13 になってから、フォルダapp の扱い方が変わったみたいで連携面倒、、、、
+
+- Play js も気になるお年頃なので、この辺で😜
 
 
 > 2019/11/02
