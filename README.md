@@ -25,9 +25,9 @@ Practice textkit-app with Pythonista
 
 --- 以下日記 ---
 
-> 2019/11/03
+# 2019/11/03
 
-# 進捗
+## 進捗
 
 時系列がバラバラだけども、状況を列記
 
@@ -42,7 +42,7 @@ Practice textkit-app with Pythonista
 
 
 
-# Pythonista クラスか、既存クラスか
+## Pythonista クラスか、既存クラスか
 - Syntax Highlight のことを考えると
 	- 実装が楽なのはPythonista
 		- 汎用性がない
@@ -70,7 +70,7 @@ Practice textkit-app with Pythonista
 - 適当な言葉に、 highlight さす
 - LineNumber つける
 
-# モヤり
+## モヤり
 
 - 多分GitHub の使い方ちゃんと理解してない🤗
 - Markdown の書き方が酷い😂
@@ -82,9 +82,9 @@ Practice textkit-app with Pythonista
 - Play js も気になるお年頃なので、この辺で😜
 
 
-> 2019/11/02
+# 2019/11/02
 
-# 1st commit
+## 1st commit
 
 ## ui.View
 - Pythonista モジュールの`ui.View` を使用
