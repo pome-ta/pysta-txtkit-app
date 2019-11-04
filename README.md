@@ -23,7 +23,35 @@ Practice textkit-app with Pythonista
 
 特別な縛りはないけども、全部iPhone（or iPad）のみで検証予定（git も含めて）
 
+
+
+
+
+
+
 --- 以下日記 ---
+
+# 2019/11/04
+
+## 実験時メモ（気付き）
+
+### `v.txt.hoge()`
+- `text='fuga'` -> 🙆‍♂️
+- `font=()` -> 🙅‍♂️
+
+### class
+- `self` つけると、外から呼び出せる
+
+### Dark Keyboard
+- `self.txt.setKeyboardAppearance_(sel('_dark'))`
+
+### `ObjCInstance(self)`
+- 変数で呼び出すと、2回目に実行すると落ちる
+	- 変数に`.autorelease()` をつけても🙅‍♂️
+	- 変数化しないようにしてる
+
+
+
 
 # 2019/11/03
 
