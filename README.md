@@ -31,6 +31,26 @@ Practice textkit-app with Pythonista
 
 --- 以下日記 ---
 
+# 2019/11/05
+
+## todo
+
+- font 設定
+- lineNumbers したい
+	- どこに設置？
+		- ui.view に？
+		- text.view に？
+			- サブクラス化が必要かもね
+	- 文字選択しても、選択されないように
+	- メインのtext.view のスクロールと連動
+	- 色々なナレッジを検索
+		- storyboard 使わない時の呼び出し
+			- 書換え方を調べないと
+
+
+
+
+
 # 2019/11/04
 
 ## 実験時メモ（気付き）
