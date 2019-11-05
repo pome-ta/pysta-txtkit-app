@@ -36,6 +36,9 @@ Practice textkit-app with Pythonista
 ## todo
 
 - font 設定
+	- とりま、`Source Code Pro` で設定
+		- 直接呼んじゃってる
+			- 太字やら、のウェイト呼び出しは今後考える
 - lineNumbers したい
 	- どこに設置？
 		- ui.view に？
@@ -48,6 +51,9 @@ Practice textkit-app with Pythonista
 			- 書換え方を調べないと
 - 実はstash って、swipe 文字移動できるのね、、、
 	- どこでできてるのか調べないと、、、
+
+
+モチベ的に店じまいかなぁ🤔
 
 
 
