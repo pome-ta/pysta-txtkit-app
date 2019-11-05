@@ -46,7 +46,8 @@ Practice textkit-app with Pythonista
 	- 色々なナレッジを検索
 		- storyboard 使わない時の呼び出し
 			- 書換え方を調べないと
-
+- 実はstash って、swipe 文字移動できるのね、、、
+	- どこでできてるのか調べないと、、、
 
 
 
