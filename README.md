@@ -31,7 +31,39 @@ Practice textkit-app with Pythonista
 
 --- 以下日記 ---
 
-# 2019/11/05
+# 📝 2019/11/08
+
+寄り道をしてて、だいぶ時間が空いた
+
+## やれそうな順番で実装(todo)
+1) keyboard 拡張
+  - accessory view で
+2) Line numbers
+  - github で探しつつ
+3) Syntax Highlight
+  - github で探しつつ
+  - 実装ひどくても、ハードコードで処理かな？
+4) Auto Complete
+  - 未計画
+  - ハードコード？
+
+## 進捗
+[これ](https://forum.omz-software.com/topic/2288/no-way-to-end-editing/8) を参考にとりま実装
+
+### クソなところ
+- ボタンがリンクで青い
+	- アイコンか、枠をつけたい
+
+### 今後
+- bar ヌルヌルしたらキャレット移動
+- undo/redo ボタン
+
+
+
+
+
+
+# 📝 2019/11/05
 
 ## todo
 
@@ -58,7 +90,7 @@ Practice textkit-app with Pythonista
 
 
 
-# 2019/11/04
+# 📝 2019/11/04
 
 ## 実験時メモ（気付き）
 
@@ -80,7 +112,7 @@ Practice textkit-app with Pythonista
 
 
 
-# 2019/11/03
+# 📝 2019/11/03
 
 ## 進捗
 
@@ -137,7 +169,7 @@ Practice textkit-app with Pythonista
 - Play js も気になるお年頃なので、この辺で😜
 
 
-# 2019/11/02
+# 📝 2019/11/02
 
 ## 1st commit
 
