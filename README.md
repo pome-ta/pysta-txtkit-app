@@ -31,6 +31,20 @@ Practice textkit-app with Pythonista
 
 --- 以下日記 ---
 
+# 📝 2019/11/09
+
+## 何をしていいかわからなくなってきた
+- view の色（赤）が見えるように
+	- textview に透過
+		- 直接かけると、文字も透明
+		- background にかける
+			- 青に設定したから、紫に！
+- textview 背景ではなく文字背景に色
+	- `NSMutableAttributedString` といふものありけり
+		- 属性の当て方が、Pythonista にあてはめができない🤔
+
+
+
 # 📝 2019/11/08
 
 寄り道をしてて、だいぶ時間が空いた
@@ -38,12 +52,12 @@ Practice textkit-app with Pythonista
 ## やれそうな順番で実装(todo)
 1) keyboard 拡張
   - accessory view で
-2) Line numbers
+1) Line numbers
   - github で探しつつ
-3) Syntax Highlight
+1) Syntax Highlight
   - github で探しつつ
   - 実装ひどくても、ハードコードで処理かな？
-4) Auto Complete
+1) Auto Complete
   - 未計画
   - ハードコード？
 
@@ -62,8 +76,19 @@ Practice textkit-app with Pythonista
 #### ボタン実装
 - 辞書か何かで選択できるようにしたい
 	- テキスト差し込み以外は、関数呼び出し？
+しかし、delegate とか考えるともう少し先かも？
 
+- undo manager
+- キャレット位置取得
 
+について、調べる必要はありそう
+
+#### 直近タスク
+- 見た目をなんとかする
+- 自由な入れ替え
+
+##### スタイリング
+font のweigh やら高さやらも調整したい
 
 
 
