@@ -44,6 +44,11 @@ Practice textkit-app with Pythonista
 		- 属性の当て方が、Pythonista にあてはめができない🤔
 
 
+変数が酷すぎる
+
+
+
+
 
 # 📝 2019/11/08
 
@@ -52,15 +57,15 @@ Practice textkit-app with Pythonista
 ## やれそうな順番で実装(todo)
 
 1. keyboard 拡張
-		- accessory view で
+	- accessory view で
 1. Line numbers
-		- github で探しつつ
+	- github で探しつつ
 1. Syntax Highlight
-		- github で探しつつ
-		- 実装ひどくても、ハードコードで処理かな？
+	- github で探しつつ
+	- 実装ひどくても、ハードコードで処理かな？
 1. Auto Complete
-		- 未計画
-		- ハードコード？
+	- 未計画
+	- ハードコード？
 
 
 ## 進捗
