@@ -50,14 +50,14 @@ Practice textkit-app with Pythonista
 寄り道をしてて、だいぶ時間が空いた
 
 ## やれそうな順番で実装(todo)
-1) keyboard 拡張
+1. keyboard 拡張
   - accessory view で
-1) Line numbers
+1. Line numbers
   - github で探しつつ
-1) Syntax Highlight
+1. Syntax Highlight
   - github で探しつつ
   - 実装ひどくても、ハードコードで処理かな？
-1) Auto Complete
+1. Auto Complete
   - 未計画
   - ハードコード？
 
